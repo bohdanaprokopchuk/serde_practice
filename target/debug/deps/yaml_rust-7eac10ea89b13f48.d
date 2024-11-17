@@ -1,0 +1,11 @@
+C:\Users\Dana\rust-learning-path\serde_practice\target\debug\deps\libyaml_rust-7eac10ea89b13f48.rmeta: C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\lib.rs C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\emitter.rs C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\parser.rs C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\scanner.rs C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\yaml.rs
+
+C:\Users\Dana\rust-learning-path\serde_practice\target\debug\deps\libyaml_rust-7eac10ea89b13f48.rlib: C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\lib.rs C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\emitter.rs C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\parser.rs C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\scanner.rs C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\yaml.rs
+
+C:\Users\Dana\rust-learning-path\serde_practice\target\debug\deps\yaml_rust-7eac10ea89b13f48.d: C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\lib.rs C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\emitter.rs C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\parser.rs C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\scanner.rs C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\yaml.rs
+
+C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\lib.rs:
+C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\emitter.rs:
+C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\parser.rs:
+C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\scanner.rs:
+C:\Users\Dana\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yaml-rust-0.4.5\src\yaml.rs:
